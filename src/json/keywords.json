@@ -1,0 +1,149 @@
+{
+   "keywords": [
+      {
+         "id": 1,
+         "keyword": "percentage",
+         "html_output": "<span>%</span>",
+         "function": "operatorHandler"
+      },
+      {
+         "id": 2,
+         "keyword": "clear_entry",
+         "html_output": "<span>CE</span>",
+         "function": "clearEntry"
+      },
+      {
+         "id": 3,
+         "keyword": "clear",
+         "html_output": "<span>C</span>",
+         "function": "clearDisplay"
+      },
+      {
+         "id": 4,
+         "keyword": "backspace",
+         "html_output": "<i class='fas fa-backspace'></i>",
+         "function": "backspace"
+      },
+      {
+         "id": 5,
+         "keyword": "divide_by_x",
+         "html_output": "<span>1/x</span>",
+         "function": "divideByX"
+      },
+      {
+         "id": 6,
+         "keyword": "squared",
+         "html_output": "<math><mstyle displaystyle='true'><msup><mi scriptlevel='-1'>x</mi><mn scriptlevel='-1'>2</mn></msup></mstyle></math>",
+         "function": "squared"
+      },
+      {
+         "id": 7,
+         "keyword": "square_root",
+         "html_output": "<math><mstyle><mroot scriptlevel='-1'><mi scriptlevel='-1'>x</mi><mn scriptlevel='-1'>2</mn></mroot></mstyle></math>",
+         "function": "squareRoot"
+      },
+      {
+         "id": 8,
+         "keyword": "divide",
+         "html_output": "<i class='fas fa-divide'></i>",
+         "function": "operatorHandler"
+      },
+      {
+         "id": 9,
+         "keyword": "7",
+         "html_output": "<span>7</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 10,
+         "keyword": "8",
+         "html_output": "<span>8</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 11,
+         "keyword": "9",
+         "html_output": "<span>9</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 12,
+         "keyword": "multiply",
+         "html_output": "<i class='fas fa-times'></i>",
+         "function": "operatorHandler"
+      },
+      {
+         "id": 13,
+         "keyword": "4",
+         "html_output": "<span>4</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 14,
+         "keyword": "5",
+         "html_output": "<span>5</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 15,
+         "keyword": "6",
+         "html_output": "<span>6</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 16,
+         "keyword": "subtraction",
+         "html_output": "<i class='fas fa-minus'></i>",
+         "function": "operatorHandler"
+      },
+      {
+         "id": 17,
+         "keyword": "1",
+         "html_output": "<span>1</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 18,
+         "keyword": "2",
+         "html_output": "<span>2</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 19,
+         "keyword": "3",
+         "html_output": "<span>3</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 20,
+         "keyword": "sum",
+         "html_output": "<i class='fas fa-plus'></i>",
+         "function": "operatorHandler"
+      },
+      {
+         "id": 21,
+         "keyword": "change_sign",
+         "html_output": "<span style='font-size:1.35rem;'>+/-</span>",
+         "function": "changeSign"
+      },
+      {
+         "id": 22,
+         "keyword": "0",
+         "html_output": "<span>0</span>",
+         "function": "numberHandler"
+      },
+      {
+         "id": 23,
+         "keyword": "dot",
+         "html_output": "<i class='fas fa-circle' style='font-size:0.635rem;'></i>",
+         "function": "formatNumber"
+      },
+      {
+         "id": 24,
+         "keyword": "equal",
+         "html_output": "<i class='fas fa-equals' style='color:#ffffff;'></i>",
+         "class":"equal-keyword",
+         "function": "calculate"
+      }
+   ]
+}
