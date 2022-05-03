@@ -1,6 +1,7 @@
 # Calculator-vue
 
 A calculator made with vue.js.
+
 Application -> https://laughing-heyrovsky-72ee42.netlify.app/
 
 ## Installation
