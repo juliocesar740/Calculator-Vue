@@ -5,7 +5,7 @@
       <calculator-container></calculator-container>
     </div>
     <p id="github-profile">
-      Developer By <a href="https://github.com/juliocesar740">Júlio César</a>
+      Developed By <a href="https://github.com/juliocesar740">Júlio César</a>
     </p>
   </div>
 </template>
