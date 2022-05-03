@@ -1,19 +1,12 @@
-# calculator-vue
+# Calculator-vue
 
-## Project setup
-```
+A calculator made with vue.js
+Application -> https://laughing-heyrovsky-72ee42.netlify.app/
+
+## Installation
+Install the dependencies and devDependencies and start the server.
+
+```sh
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
